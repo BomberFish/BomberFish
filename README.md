@@ -6,11 +6,11 @@ im just a funny person who writes funny code
 
 [![Whitelist card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=Whitelist&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/Whitelist)
 
-(omg thanks for 100 stars!!!)
+> omg thanks for 100 stars!!!
 
 [![ControlConfig card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=ControlConfig&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/Config)
 
-(collab with [sneakyf1shy](https://github.com/f1shy-dev))
+> collab with [sneakyf1shy](https://github.com/f1shy-dev)
 
 
 ## stats
