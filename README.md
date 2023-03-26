@@ -1,6 +1,11 @@
 # hi 👋
 
-im just a funny person who writes funny code
+im just a funny person who writes funny code ¯\\\_(ツ)_/¯
+
+## stats
+[![BomberFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BomberFish&show_icons=true&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BomberFish&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish)
+> ignore the top language, i dont actually program in C that much
 
 ## funny things i made
 
@@ -23,11 +28,6 @@ im just a funny person who writes funny code
 [![CoverFlow card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=CoverFlow&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/CoverFlow)
 
 > ^ did this for a lil private project i was invited to
-
-## stats
-[![BomberFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BomberFish&show_icons=true&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000&custom_title=BomberFish's%20Stats)](https://github.com/BomberFish)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BomberFish&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish)
-> ignore the top language, i dont actually program in C that much
 
 ## other contacts
 website: [bomberfish.ca](https://bomberfish.ca)
