@@ -10,11 +10,19 @@ im just a funny person who writes funny code ¯\\\_(ツ)_/¯
 
 ## funny things i made
 
+ [![AppCommander card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AppCommander&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
+> ^ super epic app
+
 [![Whitelist card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=Whitelist&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/Whitelist)
 
 > ^ omg thanks for 100 stars!!!
 
- 
+ [![AbsoluteSolver card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AbsoluteSolver&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/AbsoluteSolver)
+> ^ file manager that wont come and murder you in the middle of the night
+
+ [![DirtyCowKit card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=DirtyCowKit&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/DirtyCowKit)
+
+> ^ swift package for CVE-2022-46689
 
 [![ControlConfig card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=ControlConfig&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/ControlConfig)
 
