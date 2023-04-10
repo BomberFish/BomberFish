@@ -5,12 +5,9 @@ im just a funny person who writes funny code ¯\\\_(ツ)_/¯
 ## stats
 [![BomberFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BomberFish&show_icons=true&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BomberFish&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish)
-> ignore the top language, i dont actually program in C that much
-
 ## funny things i made
 
- [![AppCommander card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AppCommander&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff01&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
+ [![AppCommander card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AppCommander&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=01ff01&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
 > ^ mdc app manager
 
 [![Whitelist card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=Whitelist&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/Whitelist)
