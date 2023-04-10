@@ -10,7 +10,7 @@ im just a funny person who writes funny code ¯\\\_(ツ)_/¯
 
 ## funny things i made
 
- [![AppCommander card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AppCommander&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
+ [![AppCommander card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AppCommander&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff01&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
 > ^ mdc app manager
 
 [![Whitelist card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=Whitelist&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/Whitelist)
@@ -18,7 +18,7 @@ im just a funny person who writes funny code ¯\\\_(ツ)_/¯
 > ^ omg thanks for 100 stars!!!
 
  [![AbsoluteSolver card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AbsoluteSolver&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/AbsoluteSolver)
-> ^ file manager that wont come and murder you in the middle of the night
+> ^ file manager that wont come and murder you in the middle of the night i promise
 
  [![DirtyCowKit card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=DirtyCowKit&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/DirtyCowKit)
 
