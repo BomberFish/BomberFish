@@ -14,7 +14,7 @@ im just a funny person who writes funny code ¯\\\_(ツ)_/¯
 
 > ^ omg thanks for 100 stars!!!
 
- [![AbsoluteSolver card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AbsoluteSolver&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/AbsoluteSolver)
+ [![AbsoluteSolver card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AbsoluteSolver-iOS&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/AbsoluteSolver-iOS)
 > ^ file manager that wont come and murder you in the middle of the night i promise
 
  [![DirtyCowKit card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=DirtyCowKit&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/DirtyCowKit)
