@@ -1,4 +1,4 @@
-# hi 👋
+# hii 👋
 
 im just a funny person who writes funny code ¯\\\_(ツ)_/¯
 
@@ -9,6 +9,9 @@ im just a funny person who writes funny code ¯\\\_(ツ)_/¯
 
  [![AppCommander card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AppCommander&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=01ff01&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
 > ^ mdc app manager
+
+ [![OpenSaber card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=OpenSaber&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=01ff01&&bg_color=000000)](https://github.com/BomberFish/OpenSaber)
+> ^ omg hardware project!!!
 
 [![Whitelist card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=Whitelist&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/Whitelist)
 
