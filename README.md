@@ -34,7 +34,7 @@ im just a funny person who writes funny code ¯\\\_(ツ)_/¯
 > ^ unfinished
 
 
-[![CoverFlow card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=CoverFlow&theme=transparent&icon_color=00ff00&text_color=ffffff&title_color=00ff00&&bg_color=000000)](https://github.com/BomberFish/CoverFlow)
+[![CoverFlow card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=CoverFlow&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/CoverFlow)
 
 > ^ did this for a lil private project i was invited to
 
