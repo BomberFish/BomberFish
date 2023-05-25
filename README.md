@@ -43,4 +43,4 @@ website: [bomberfish.ca](https://bomberfish.ca)
 
 mastodon: [@BomberFish@fosstodon.org](https://fosstodon.org/@BomberFish)
 
-discord: BomberFish#9723
+discord: [BomberFish#9723](https://discord.com/users/470637062870269952)
