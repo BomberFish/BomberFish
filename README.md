@@ -7,6 +7,9 @@ im just a funny person who writes funny code ¯\\\_(ツ)_/¯
 
 ## funny things i made
 
+### Picasso (eta son)
+> ^ collab with [sourcelocation](https://github.com/sourcelocation)
+
  [![AppCommander card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AppCommander&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
 > ^ mdc app manager
 
