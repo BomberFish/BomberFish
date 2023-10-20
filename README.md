@@ -5,11 +5,18 @@ im a professional idiot™ who makes cool things sometimes
 ## stats
 [![BomberFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BomberFish&show_icons=true&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish)
 
+## what i do
+- Swift (full-time Objective-C hater)
+- Vanilla HTML/CSS/JS Web Development
+- Anything else I feel like doing
+
 ## funny things i made
 
 ### [Picasso](https://github.com/sourcelocation/Picasso) (eta son)
 > ^ collab with [sourcelocation](https://github.com/sourcelocation)
- 
+
+ [![Infrared card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=Infrared&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
+> ^ super-fast edge proxy ([link](https://infrared.bomberfish.ca))
 
  [![AppCommander card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AppCommander&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
 > ^ jailed app manager
