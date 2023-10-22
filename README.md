@@ -2,7 +2,7 @@
 
 im a professional idiot™ who makes cool things sometimes
 
-## stats
+## cool card thingie
 [![BomberFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BomberFish&show_icons=true&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish)
 
 ## what i do
@@ -10,7 +10,7 @@ im a professional idiot™ who makes cool things sometimes
 - Vanilla HTML/CSS/JS Web Development
 - Anything else I feel like doing
 
-## funny things i made
+## what i make
 
 ### [Picasso](https://github.com/sourcelocation/Picasso) (eta son)
 > ^ collab with [sourcelocation](https://github.com/sourcelocation)
@@ -47,7 +47,7 @@ im a professional idiot™ who makes cool things sometimes
 > ^ did this for a lil private project i was invited to
 
  
-## other contacts
+## how to yell at me on the internet
 
 twitter: [@bomberfish77](https://twitter.com/bomberfish77)
 
@@ -55,4 +55,4 @@ mastodon: [@BomberFish@fosstodon.org](https://fosstodon.org/@BomberFish)
 
 discord: [@bomberfish](https://discord.com/users/470637062870269952)
 
-website: [bomberfish.ca](https://bomberfish.ca)
+email: [bomberfish@bomberfish.ca](mailto:bomberfish@bomberfish.ca)
