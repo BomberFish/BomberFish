@@ -2,6 +2,12 @@
 
 im a professional idiot™ who makes cool things sometimes
 
+## about me
+- 15 years old
+- likes computers
+- i can be dumb sometimes
+- my school's IT department's biggest nightmare sometimes
+
 ## cool card thingie
 [![BomberFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BomberFish&show_icons=true&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish)
 
