@@ -4,55 +4,46 @@ im a professional idiot™ who makes cool things sometimes
 
 ## about me
 - 15 years old
-- likes computers
+- i like computers
 - i can be dumb sometimes
-- my school's IT department's biggest nightmare at times
+- my school's it department probably doesn't like me
 
 ## cool card thingie
-[![BomberFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BomberFish&show_icons=true&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish)
+[![BomberFish's GitHub stats](https://github-readme-stats.vercel.app/api?username=BomberFish&show_icons=true&theme=transparent&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/BomberFish)
 
 ## what i do
 - Swift (full-time Objective-C hater)
-- Vanilla HTML/CSS/JS Web Development
+- Web Development
 - Anything else I feel like doing
 
-## what i make
+## stuff i made (or currently making)
 
-### [Picasso](https://github.com/sourcelocation/Picasso) (eta son)
-> ^ collab with [sourcelocation](https://github.com/sourcelocation)
+### iOS
+[Picasso](https://github.com/sourcelocation/Picasso-v3) (unmaintained, stable): Collab with [sourcelocation](https://github.com/sourcelocation), customization app using kernel exploits
 
- [![Infrared card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=Infrared&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
-> ^ super-fast edge proxy ([link](https://infrared.bomberfish.ca))
+Mandela Pro (unfinished, backburner): Customization app using sandbox escape
 
- [![AppCommander card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=AppCommander&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/AppCommander)
-> ^ jailed app manager
- 
+[SwiftTop](https://github.com/BomberFish/SwiftTop) (beta): Process monitor
 
- [![TimeTabler card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=TimeTabler&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/TimeTabler)
-> ^ school timetable but for your phone
- 
+[AppCommander v1](https://github.com/BomberFish/AppCommander-legacy) (stable): App Manager for MDC
 
- [![OpenSaber card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=OpenSaber&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/OpenSaber)
-> ^ omg hardware project!!!
- 
+[AppCommander v2](https://github.com/BomberFish/AppCommander) (stable): App Manager for Trollstore
 
-[![Whitelist card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=Whitelist&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/Whitelist)
-> ^ omg thanks for 100 stars!!!
- 
+Ampere (eta son): AlDente+CoconutBattery for iOS
 
-[![ControlConfig card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=ControlConfig&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/ControlConfig)
+Marooned (early stages): Robust Dynamic Island enabler for earlier iPhones
 
-> ^ collab with [sneakyf1shy](https://github.com/f1shy-dev)
- 
- 
-[![DirtyJIT-Loader card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=DirtyJIT-Loader&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/DirtyJIT-Loader)
-> ^ unfinished
- 
+### web
 
-[![CoverFlow card](https://github-readme-stats.vercel.app/api/pin/?username=BomberFish&repo=CoverFlow&theme=transparent&icon_color=a444dc&text_color=ffffff&title_color=a444dc&&bg_color=000000)](https://github.com/BomberFish/CoverFlow)
-> ^ did this for a lil private project i was invited to
+solarOS (abandoned): webOS in vanilla JS
 
- 
+## things i've helped with
+
+[Serotonin](https://github.com/mineek/Serotonin): Graphic design, old UI
+
+[anuraOS](https://github.com/MercuryWorkshop/anuraOS): UI Improvements in v2 (and more to come)
+
+
 ## how to yell at me on the internet
 
 twitter: [@bomberfish77](https://twitter.com/bomberfish77)
