@@ -22,7 +22,7 @@ top: 0;
 bottom: 0;
 left: 0;
 right: 0;
-opacity: 0.4;
+opacity: 0.2;
 background: url('https://raw.githubusercontent.com/BomberFish/OpenPicasso/master/Picasso/Trollface.png');
 cursor: url('https://raw.githubusercontent.com/BomberFish/OpenPicasso/master/Picasso/Trollface.png'), pointer;
 content: 'youve been trolled';
