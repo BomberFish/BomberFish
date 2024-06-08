@@ -13,7 +13,7 @@ pointer-events:none;
 z-index: -9999;
 inset:0;
 object-fit: cover;
-background-size: 12vw;
+background-size: 12vmax;
 position: fixed!important;
 display: block!important;
 top: 0;
